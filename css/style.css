@@ -1,0 +1,11 @@
+.pera{
+    background: rgb(58, 45, 45);
+    color: aqua;
+    border: 5px solid green;
+    border-radius: 20px;
+    padding: 10px;
+    height: auto;
+    width: auto;
+    position: center;
+
+}
